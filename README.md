@@ -1,0 +1,13 @@
+# projeto12
+# Numero1
+# Numero1
+# res1
+# res1
+# res1
+# res1
+# Projeto0
+# Public
+# Public
+# Private
+# Private
+# Private1
